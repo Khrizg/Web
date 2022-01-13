@@ -1,0 +1,33 @@
+body { color: black;
+    background-color: white; 
+    font:caption;
+    line-height: 1.5em;
+    display: block;
+     margin: 100px;
+   }
+
+    
+    #primero{
+        font-size: 30px;
+        text-align: center;
+     } 
+    #titulo{
+        font-size: 25px;
+        text-align: center;
+    }
+    #subtitulo{
+        font-size: 20px;
+        text-align: center;
+    }
+    #teoria{
+        font-size: 15px;
+        text-align:justify;
+    }
+    #imagen{
+        text-align:center;
+        
+    }
+    #link{
+        text-align: center;
+        font-size: 25px;
+    }
